@@ -1,4 +1,8 @@
-9x9’luk bir satranç tahtasına, V adet veziri ve A adet atı tehdit ettikleri kare sayısı 
-maksimum olacak şekilde dizen uygulama.
+9x9â€™luk bir satranÃ§ tahtasÄ±na, V adet veziri ve A adet atÄ± tehdit ettikleri kare sayÄ±sÄ± 
+maksimum olacak ÅŸekilde yerleÅŸtiren uygulama.
 
-Uygulamada lokal arama algoritmalarından Tepe Tırmanma Algoritması (Hill Climbing Algorithm) kullanılmıştır.
+Uygulamada lokal arama algoritmalarÄ±ndan Tepe TÄ±rmanma AlgoritmasÄ± (Hill Climbing Algorithm) kullanÄ±lmÄ±ÅŸtÄ±r.
+
+![Alt text](https://github.com/th3gundy/HillClimbingAlgorithm/blob/master/pic/2_1.JPG "SS 1")
+
+![Alt text](https://github.com/th3gundy/HillClimbingAlgorithm/blob/master/pic/2_2.JPG "SS 1")
